@@ -1,1 +1,1 @@
-# CI-CD-practicals
+Devops Project
